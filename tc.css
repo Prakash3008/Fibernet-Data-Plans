@@ -1,0 +1,18 @@
+﻿body {
+    font-family: 'Muli', sans-serif;
+    background: url(2.jpg)no-repeat center 0px;
+	-webkit-background-size:cover;
+	-moz-background-size:cover; 
+	background-size:cover;
+    background-attachment: fixed;
+} 
+.title-terms {
+    font-size: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+}
